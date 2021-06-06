@@ -23,7 +23,7 @@ def Remark(s):
         print("General knowledge will always help you. Take it seriously.")
 
 import random
-q1=''' '''
+q1='''a '''
 q2='''b '''
 q3='''c '''
 q4='''d '''
